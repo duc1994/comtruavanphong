@@ -76,7 +76,7 @@ section::before,section::after {
     02. Header 
 ========================================================================== */
 #header {
-    background-image:url(../img/night.jpg);
+    background-image:url(../img/banner.jpg);
     -webkit-background-size:/*@@prefixmycss->No equivalent*/;
     -moz-background-size:cover;
     -o-background-size:/*@@prefixmycss->No equivalent*/;
@@ -113,13 +113,13 @@ section::before,section::after {
     text-transform:uppercase;
     font-weight:bold;
     display:inline-block;
-    background:#ed0121;
+    background:#3D9970;
     padding:0px 18px;
 }
 #header .subtitle h4 {
     display:inline-block;
     background:white;
-    color:#ed0121;
+    color:#3D9970;
     font-size:38px;
     padding:0px 15px;
 }
@@ -416,13 +416,13 @@ section::before,section::after {
     10. Footer 
 ========================================================================== */
 .dark-wrapper {
-    background:#ed0121;
+    background:#3D9970;
     color:white;
     font-size:20px;
     font-weight:bold;
 }
 .dark-wrapper .ss-style-top::before {
-    background-image:linear-gradient(315deg,#ed0121 50%,transparent 50%),linear-gradient(45deg,#ed0121 50%,transparent 50%);
+    background-image:linear-gradient(315deg,#3D9970 50%,transparent 50%),linear-gradient(45deg,#3D9970 50%,transparent 50%);
 }
 .social-bar {
     width:100%;
