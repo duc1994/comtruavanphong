@@ -1,4 +1,4 @@
-MeatKing
+Web Temaplate for restaurant in Vietnam
 ========
 
-Restaurant Theme based on Twitter Bootstrap 3
+based on Twitter Bootstrap 3
