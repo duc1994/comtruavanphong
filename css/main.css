@@ -451,6 +451,15 @@ section::before,section::after {
     background: white;
 }
 
+/*======= Custom CSS ============*/
+.menu-category__li
+{
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 2%;
+}
+
 /* ==========================================================================
     11. Responsive styles 
 ========================================================================== */
